@@ -10,7 +10,7 @@ body {
 .fix {
   border: 2px solid #fca311;
   border-radius: 5px;
-  background-color: #fca311;
+  background-color: yellow;
   padding: 10px;
 }
 h1,
